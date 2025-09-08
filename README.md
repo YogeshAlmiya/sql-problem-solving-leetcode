@@ -1,2 +1,20 @@
-# sql-problem-solving-leetcode
-A collection of SQL solutions from LeetCode. Demonstrating problem-solving, query optimization, and interview prep.
+# SQL Practice – LeetCode, HackerRank, StrataScratch  
+
+This repository contains my solutions to SQL problems from various coding platforms.  
+It serves as a portfolio of my SQL skills in writing efficient queries, optimizing joins, and solving real-world data problems.  
+
+## 📂 Structure
+- `leetcode/` → Solutions from [LeetCode SQL problems](https://leetcode.com/problemset/database/)
+
+## 🛠️ Skills Demonstrated
+- Writing optimized SQL queries  
+- Using `JOIN`, `GROUP BY`, `HAVING`, and subqueries effectively  
+- Real-world business query translation  
+- Problem-solving for interview prep  
+
+---
+
+### 🚀 How to Use
+Clone the repo:  
+```bash
+git clone https://github.com/YogeshAlmiya/sql-practice-leetcode.git
